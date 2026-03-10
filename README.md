@@ -18,7 +18,3 @@ The full template with all files and assets is available here:
 - Fully responsive
 - Built with HTML, CSS and JavaScript
 - Easy to customize
-
-## Preview
-
-![Preview](images/Capture.PNG)
