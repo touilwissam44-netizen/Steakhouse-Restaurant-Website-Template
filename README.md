@@ -10,7 +10,7 @@ View the demo here:
 
 The full template with all files and assets is available here:
 
-(https://touilwissam44-netizen.github.io/Steakhouse-Restaurant-Website-Template/)
+(http://wissamtouil.gumroad.com)
 
 ## Features
 
